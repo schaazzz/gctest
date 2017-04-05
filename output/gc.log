@@ -1,0 +1,398 @@
+2017/04/05 10:24:31 server started on http://127.0.0.1:64897/
+scvg0: inuse: 2, idle: 0, sys: 3, released: 0, consumed: 3 (MB)
+scvg1: inuse: 2, idle: 0, sys: 3, released: 0, consumed: 3 (MB)
+GC forced
+scvg2: inuse: 3, idle: 0, sys: 4, released: 0, consumed: 4 (MB)
+GC forced
+scvg3: inuse: 3, idle: 0, sys: 4, released: 0, consumed: 4 (MB)
+GC forced
+gc 1 @701.632s 0%: 0+0.50+0 ms clock, 0+0/0.50/0.50+0 ms cpu, 4->4->0 MB, 5 MB goal, 4 P
+GC forced
+scvgscvg4: 2 MB released
+4: inuse: 2, idle: 2, sys: 5, released: 0, consumed: 5 (MB)
+GC forced
+gc 2 @821.624s 0%: 0+0.50+0.50 ms clock, 0+0/0.50/0.50+2.0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg5: inuse: 2, idle: 2, sys: 5, released: 0, consumed: 5 (MB)
+GC forced
+gc 3 @941.618s 0%: 0+1.0+0 ms clock, 0+0.50/0.50/0.50+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg6: 0 MB released
+scvg6: inuse: 2, idle: 2, sys: 5, released: 0, consumed: 4 (MB)
+GC forced
+gc 4 @1062.553s 0%: 0+0.50+0 ms clock, 0+0/0.50/0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+GC forced
+gc 5 @1183.437s 0%: 0+7.0+0.50 ms clock, 0+0/0.50/0+2.0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+scvg7: 1 MB released
+scvg7: inuse: 2, idle: 2, sys: 5, released: 1, consumed: 3 (MB)
+GC forced
+GC forced
+gc 6 @1304.322s 0%: 0+1.0+0 ms clock, 0+0/1.0/1.5+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg8: 0 MB released
+scvg8: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 7 @1425.300s 0%: 0+0.50+0 ms clock, 0+0/0.50/0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg9: 0 MB released
+scvg9: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 8 @1545.304s 0%: 0+0.50+0 ms clock, 0+0/0.50/0.50+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg10: 0 MB released
+scvg10: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 9 @1666.280s 0%: 0+1.0+0 ms clock, 0+0/0.50/0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+GC forced
+gc 10 @1787.258s 0%: 0+0.50+0 ms clock, 0+0/0.50/0.50+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+scvg11: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+GC forced
+gc 11 @1908.245s 0%: 0+9.5+4.5 ms clock, 0+0/9.5/0+18 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg12: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 12 @2029.037s 0%: 0+1.5+0 ms clock, 0+0.50/0.50/0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg13: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 13 @2150.075s 0%: 0.50+0.50+0.50 ms clock, 2.0+0/0.50/0+2.0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg14: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 14 @2272.071s 0%: 0.50+0.50+0 ms clock, 1.5+0/0.50/0.50+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+GC forced
+gc 15 @2393.028s 0%: 0+0.50+0 ms clock, 0+0/0.50/0.50+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+scvg15: 0 MB released
+scvg15: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+GC forced
+gc 16 @2515.049s 0%: 0.50+0.50+0 ms clock, 2.0+0/0.50/0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg16: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+scvg16: 0 MB released
+GC forced
+gc 17 @2635.071s 0%: 0.50+0+0.50 ms clock, 2.0+0/0/0+2.0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg17: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 18 @2756.035s 0%: 0+0.50+0 ms clock, 0+0/0/0.50+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg18: 0 MB released
+scvg18: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 19 @2876.039s 0%: 0+1.5+0.50 ms clock, 0+0/1.0/0+2.0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+GC forced
+gc 20 @2996.040s 0%: 1.0+4.5+1.0 ms clock, 3.0+0/4.5/0+3.0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+scvg19: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+GC forced
+gc 21 @3116.043s 0%: 0.50+0.50+0 ms clock, 2.0+0/0.50/0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg20: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 22 @3236.061s 0%: 0+1.5+0.50 ms clock, 0+0/0.50/0+2.0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg21: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 23 @3357.065s 0%: 0+1.5+0 ms clock, 0+0/0.50/0.50+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg22: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 24 @3477.103s 0%: 0+0.50+0 ms clock, 0+0/0/0.50+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+GC forced
+gc 25 @3598.052s 0%: 0+0.50+0 ms clock, 0+0/0.50/0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+scvg23: 0 MB released
+scvg23: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+GC forced
+gc 26 @3718.087s 0%: 0+1.5+0 ms clock, 0+0/1.0/0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg24: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 27 @3839.074s 0%: 0+1.0+0 ms clock, 0+0/0/1.0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg25: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 28 @3960.060s 0%: 0+0.50+0 ms clock, 0+0.50/0.50/0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg26: 0 MB released
+scvg26: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 29 @4080.103s 0%: 0+1.5+0 ms clock, 0+0/1.0/0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+GC forced
+scvg27: 0 MB released
+scvg27: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+gc 30 @4201.220s 0%: 0+0.50+0 ms clock, 0+0/0.50/0.50+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+GC forced
+gc 31 @4323.073s 0%: 0+1.0+0 ms clock, 0+0/1.0/0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg28: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 32 @4444.087s 0%: 0+1.0+0 ms clock, 0+0/1.0/0.50+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg29: 0 MB released
+scvg29: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 33 @4565.105s 0%: 1.5+0.50+0 ms clock, 6.0+0/0.50/0.50+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg30: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 34 @4687.111s 0%: 0+0.50+0.50 ms clock, 0+0/0.50/0+2.0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg31: 0 MB released
+scvg31: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 35 @4808.079s 0%: 0+0.50+0 ms clock, 0+0/0.50/0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+GC forced
+gc 36 @4928.080s 0%: 0+1.0+0.50 ms clock, 0+0/1.0/0+2.0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg32: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 37 @5048.093s 0%: 0+0.50+0 ms clock, 0+0/0.50/0.50+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg33: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 38 @5168.106s 0%: 1.0+0+0 ms clock, 3.0+0/0/0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg34: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+scvg34: 0 MB released
+GC forced
+gc 39 @5289.105s 0%: 0+1.5+0 ms clock, 0+0/0/0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg35: 0 MB released
+scvg35: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 40 @5410.127s 0%: 0+4.0+0 ms clock, 0+0.50/0.50/0.50+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+GC forced
+gc 41 @5531.093s 0%: 0+2.0+1.5 ms clock, 0+0/1.0/0+6.0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg36: 0 MB released
+scvg36: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 42 @5651.097s 0%: 0+0.50+0 ms clock, 0+0/0.50/0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg37: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 43 @5771.097s 0%: 0+1.0+0 ms clock, 0+0/0.50/0.50+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg38: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 44 @5891.103s 0%: 0+0.50+0 ms clock, 0+0/0/0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg39: 0 MB released
+scvg39: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 45 @6012.102s 0%: 2.0+0.50+0 ms clock, 6.0+0/0.50/0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+GC forced
+gc 46 @6132.105s 0%: 0+1.0+0 ms clock, 0+0/1.0/0.50+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg40: 0 MB released
+scvg40: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 47 @6253.109s 0%: 0+0.50+0 ms clock, 0+0/0.50/0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg41: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 48 @6373.118s 0%: 0+4.0+0 ms clock, 0+0/4.0/0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg42: 0 MB released
+scvg42: inuse: 3, idle: 2, sys: 5, released: 1, consumed: 3 (MB)
+GC forced
+gc 49 @6494.136s 0%: 0.50+0.50+0 ms clock, 2.0+0/0.50/0.50+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvgscvg43: 0 MB released
+43: 0 MB released
+scvg43: inuse: 2, idle: 2, sys: 5, released: 1, consumed: 3 (MB)
+GC forced
+gc 50 @6616.115s 0%: 0+0+2.0 ms clock, 0+0/0/0+8.0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+GC forced
+gc 51 @6737.151s 0%: 0+0.50+0 ms clock, 0+0/0.50/1.0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg44: inuse: 2, idle: 2, sys: 5, released: 1, consumed: 3 (MB)
+GC forced
+gc 52 @6858.119s 0%: 0+0.50+0.50 ms clock, 0+0/0.50/0+2.0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg45: 0 MB released
+scvg45: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 53 @6979.147s 0%: 0+0.50+0 ms clock, 0+0/0.50/0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg46: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 54 @7099.167s 0%: 3.0+10+2.5 ms clock, 9.0+0/1.0/0+7.5 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg47: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 55 @7220.130s 0%: 0+0.50+0.50 ms clock, 0+0/0.50/0.50+2.0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+GC forced
+gc 56 @7342.148s 0%: 0+1.0+0 ms clock, 0+0/1.0/0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg48: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 57 @7463.132s 0%: 0+1.0+1.0 ms clock, 0+0/1.0/0+4.0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg49: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 58 @7584.144s 0%: 0+0.50+0 ms clock, 0+0/0.50/0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg50: 0scvg50: 0 MB released
+ MB released
+scvg50: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 59 @7705.182s 0%: 0+1.0+0.50 ms clock, 0+0/1.0/0.50+2.0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg51: 0 MB released
+scvg51: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 60 @7826.193s 0%: 0+0.50+0 ms clock, 0+0/0.50/0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+GC forced
+gc 61 @7948.143s 0%: 0+0.50+0.50 ms clock, 0+0/0.50/0+1.5 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg52: 0 MB released
+scvg52: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 62 @8068.148s 0%: 0+0.50+0.50 ms clock, 0+0/0.50/0.50+2.0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg53: 0 MB released
+scvg53: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 63 @8188.148s 0%: 0+0.50+0 ms clock, 0+0/0.50/0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg54scvg54: 0 MB released
+: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+gc 64 @8309.167s 0%: 0+1.5+0.50 ms clock, 0+0/1.5/0.50+2.0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+scvg55: 0 MB released
+scvg55: 0 MB released
+scvg55: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+GC forced
+gc 65 @8429.825s 0%: 0+0.50+0 ms clock, 0+0/0/0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+GC forced
+gc 66 @8549.903s 0%: 0+0.50+0 ms clock, 0+0/0.50/1.0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+scvg56: inuse: 2, idle: 2, sys: 5, released: 1, consumed: 3 (MB)
+GC forced
+GC forced
+gc 67 @8669.922s 0%: 0+0.50+0 ms clock, 0+0/0.50/0+0 ms cpu, 2->2->0 MB, 4 MB goal, 4 P
+scvg57: inuse: 2, idle: 2, sys: 5, released: 1, consumed: 3 (MB)
+GC forced
+GC forced
+gc 68 @8789.927s 0%: 0.50+0.50+0.50 ms clock, 1.5+0/0.50/0+1.5 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+scvg58: inuse: 2, idle: 2, sys: 5, released: 1, consumed: 3 (MB)
+GC forced
+GC forced
+gc 69 @8909.933s 0%: 0+1.0+0 ms clock, 0+0/0.50/0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+scvg59: 0 MB released
+scvg59: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+GC forced
+gc 70 @9029.929s 0%: 0+0.50+0 ms clock, 0+0.50/0.50/0.50+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+GC forced
+gc 71 @9149.935s 0%: 0+0.50+0.50 ms clock, 0+0/0.50/0+2.0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+scvg60: inuse: 2, idle: 2, sys: 5, released: 1, consumed: 3 (MB)
+GC forced
+GC forced
+gc 72 @9269.975s 0%: 0+0.50+0 ms clock, 0+0.50/0.50/0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+scvg61: inuse: 2, idle: 2, sys: 5, released: 1, consumed: 3 (MB)
+GC forced
+GC forced
+gc 73 @9389.993s 0%: 0+0.50+0 ms clock, 0+0/0.50/0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+scvg62: 0 MB released
+scvg62: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forcedGC forced
+
+gc 74 @9510.008s 0%: 0+0.50+0 ms clock, 0+0/0.50/0.50+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+scvg63: 0 MB released
+scvg63: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+GC forced
+gc 75 @9630.001s 0%: 0+0.50+0 ms clock, 0+0/0.50/0.50+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+GC forced
+gc 76 @9750.059s 0%: 0+0.50+0 ms clock, 0+0.50/0.50/0.50+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+scvg64: 0 MB released
+scvg64: inuse: 2, idle: 2, sys: 5, released: 1, consumed: 3 (MB)
+GC forced
+GC forced
+gc 77 @9870.131s 0%: 0+0.50+0 ms clock, 0+0/0.50/0.50+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+scvg65: inuse: 2, idle: 2, sys: 5, released: 1, consumed: 3 (MB)
+GC forced
+GC forced
+gc 78 @9990.261s 0%: 0+0.50+0 ms clock, 0+0/0.50/1.0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+scvg66: 0 MB released
+scvg66: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forcedGC forced
+
+gc 79 @10110.355s 0%: 0+1.5+0 ms clock, 0+0/0.50/0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+scvg67: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+GC forced
+gc 80 @10230.403s 0%: 0+0.50+0 ms clock, 0+0/0.50/0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+GC forced
+gc 81 @10350.488s 0%: 0+0+0.50 ms clock, 0+0/0/0+2.0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+scvg68: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+GC forced
+gc 82 @10470.556s 0%: 0+0.50+0 ms clock, 0+0/0.50/0.50+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+scvg69: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+GC forced
+gc 83 @10590.609s 0%: 0+0.50+0 ms clock, 0+0/0.50/0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+scvg70: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 2 (MB)
+GC forced
+GC forced
+gc 84 @10710.693s 0%: 0+0.50+0.50 ms clock, 0+0/0.50/0+1.5 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+scvg71: inuse: 2, idle: 2, sys: 5, released: 2, consumed: 3 (MB)
+GC forced
+GC forced
+gc 85 @10830.720s 0%: 0.50+0.50+0 ms clock, 1.5+0/0.50/0.50+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+GC forced
+gc 86 @10950.754s 0%: 0.50+2.0+0 ms clock, 2.0+0/1.5/0+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+scvg72: inuse: 2, idle: 2, sys: 5, released: 1, consumed: 3 (MB)
+GC forced
+GC forced
+gc 87 @11070.865s 0%: 0+1.0+0 ms clock, 0+0/0.50/0+0 ms cpu, 2->2->0 MB, 4 MB goal, 4 P
+scvg73: inuse: 3, idle: 1, sys: 5, released: 1, consumed: 3 (MB)
+GC forced
+GC forced
+gc 88 @11190.979s 0%: 0+1.0+0 ms clock, 0+0/1.0/0+0 ms cpu, 2->2->0 MB, 4 MB goal, 4 P
+scvg74: inuse: 3, idle: 1, sys: 5, released: 1, consumed: 3 (MB)
+GC forced
+GC forced
+gc 89 @11311.071s 0%: 0+0.50+0 ms clock, 0+0/0/0+0 ms cpu, 2->2->0 MB, 4 MB goal, 4 P
+scvg75: inuse: 3, idle: 1, sys: 5, released: 1, consumed: 3 (MB)
+GC forced
+GC forced
+gc 90 @11431.097s 0%: 0+0.50+0 ms clock, 0+0/0.50/0.50+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+GC forced
+GC forced
+gc 91 @11551.134s 0%: 0+0.50+0.50 ms clock, 0+0/0.50/0+1.5 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
+scvg76: 0 MB released
+scvg76: inuse: 2, idle: 2, sys: 5, released: 1, consumed: 3 (MB)
+GC forced
+GC forced
+gc 92 @11671.171s 0%: 0+0.50+0 ms clock, 0+0/0.50/0.50+0 ms cpu, 2->2->0 MB, 4 MB goal, 4 P
+scvg77: 0 MB released
+scvg77: inuse: 3, idle: 1, sys: 5, released: 1, consumed: 3 (MB)
+GC forced
+GC forced
+gc 93 @11791.215s 0%: 0+1.0+0 ms clock, 0+0.50/1.0/0.50+0 ms cpu, 1->1->0 MB, 4 MB goal, 4 P
